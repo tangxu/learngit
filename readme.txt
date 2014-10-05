@@ -4,4 +4,4 @@ Git is a free software.
 By Tang
 
 Time: Oct 5, 2014
-
+Creating a new branch is quick AND simple.
